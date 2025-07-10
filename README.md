@@ -44,12 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiTeja-2101&show_icons=true&theme=radical" width="48%" height="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiTeja-2101&theme=radical" width="48%" height="100%"/>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiTeja-2101&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiTeja-2101&layout=compact&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiTeja-2101&theme=radical" width="50%" />
 </p>
 
 ---
