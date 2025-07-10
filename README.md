@@ -1,7 +1,5 @@
 <h1 align="center">
-   <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&center=true&size=30">
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&center=true&size=24&duration=3000">
 </h1>
 
 ## 👋 Hi, I'm Akula Sai Teja
