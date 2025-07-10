@@ -5,7 +5,6 @@
 ## 👋 Hi, I'm Akula Sai Teja
 
 ---
----
 
 ### 👨‍💻 About Me
 
