@@ -1,11 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&center=true&size=24&duration=3000">
-</h1>
+<div align="center">
+  
 
-## 👋 Hi, I'm Akula Sai Teja
+
+### 👋 Hi, I'm Akula Sai Teja
+
+</div>
+
+---
 
 ### 👨‍💻 About Me
-
 🎓 Student at IIITDM Kancheepuram – Pursuing B.Tech & Integrated M.Tech in Computer Science and Engineering  
 🌐 Google Developer Student Club Coordinator – Leading full-stack development initiatives  
 💻 Passionate MERN Stack Developer specializing in React, Node.js, Express, and MongoDB  
@@ -16,7 +19,6 @@
 ---
 
 ### 🚀 Tech Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,11 +43,11 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiTeja-2101&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiTeja-2101&layout=compact&theme=radical" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiTeja-2101&theme=radical" width="50%" />
 </p>
@@ -53,9 +55,14 @@
 ---
 
 ### 📫 Let's Connect
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akula-sai-teja-30034a327/)
 - 💻 [GitHub](https://github.com/SaiTeja-2101)
 - 📧 akulasaiteja2006@gmail.com
 
 ---
+
+<div align="center">
+  
+### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
+
+</div>
