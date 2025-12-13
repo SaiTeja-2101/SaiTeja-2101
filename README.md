@@ -55,7 +55,7 @@ I'm a **passionate Full-Stack Web Developer** and **2nd year Computer Science En
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nextjs,jquery,bootstrap,html,css,tailwind,nodejs,express,mongodb,postgresql,supabase,prisma,firebase,git,github,vscode,postman,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nextjs,ts,jquery,bootstrap,html,css,tailwind,nodejs,express,mongodb,postgresql,supabase,prisma,firebase,git,github,vscode,postman,npm,figma" />
 </p>
 
 <br>
