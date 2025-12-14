@@ -42,7 +42,7 @@ I'm a **passionate Full-Stack Web Developer** and **2nd year Computer Science En
 
 🤝 **I'm looking for help with:** Scaling applications, advanced system design patterns, and DevOps best practices
 
-💬 **Ask me about:** Next.js, React, TypeScript, Node.js, SQL, and all things JavaScript ecosystem
+💬 **Ask me about:** Next.js, React, TypeScript, Node.js, SQL, and JavaScript ecosystem
 
 📫 **How to reach me:** Connect with me through my social media handles below!
 
