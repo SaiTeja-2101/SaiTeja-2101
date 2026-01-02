@@ -70,7 +70,6 @@ I'm a **passionate Full-Stack Web Developer** and **2nd year Computer Science En
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SaiTeja-2101&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <br>
 
 ---
