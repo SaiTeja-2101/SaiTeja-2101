@@ -61,12 +61,10 @@ I'm a **passionate Full-Stack Web Developer** and **2nd year Computer Science En
 <br>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiTeja-2101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiTeja-2101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaiTeja-2101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaiTeja-2101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiTeja-2101&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
